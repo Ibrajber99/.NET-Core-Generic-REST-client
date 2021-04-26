@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gx+NRV3h/hBMfPyuAr0Q8d72wTeJpo1u6wjOx4ZwTgfORLVB0tIxCvL2vospq6ze9jighBlsH9Oe7MXuY7oeWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jber5\\OneDrive\\Desktop\\Medium-blogs\\REST-Generic-Client\\REST-Generic-Client\\REST-Generic-Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jber5\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
